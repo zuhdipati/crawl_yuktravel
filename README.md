@@ -1,7 +1,7 @@
 # 🕷️ YukTravel Scraper
 
 Scraper sederhana berbasis **Python + Playwright + BeautifulSoup4**  
-untuk mengambil data paket liburan dari [YukTravel.com](https://www.yuktravel.com/) dengan output JSON
+untuk mengambil data list dan detail paket liburan join trip dari [YukTravel.com](https://www.yuktravel.com/) dengan output JSON
 
 ---
 
