@@ -10,5 +10,6 @@ untuk mengambil data list dan detail paket liburan join trip dari [YukTravel.com
 ### 1. Clone repository
 ```bash
 git clone https://github.com/zuhdipati/crawl_ytravel.git
-cd crawl_ytravel
+cd crawl_yuktravel
 pip install -r requirements.txt
+python -m crawl
